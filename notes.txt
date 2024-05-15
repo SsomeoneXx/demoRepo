@@ -1,6 +1,0 @@
-//some important stuffs indicated here
-
-name : "Faiyaz Rasul"
-age : "21"
-class : "09"
-address : "404 error"
